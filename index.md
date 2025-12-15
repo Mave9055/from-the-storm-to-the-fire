@@ -1,13 +1,17 @@
 ---
 layout: default
 title: Home
+description: A trauma memoir told backwards — from survival to origin. A raw, neuroscience-grounded account of Complex PTSD and recovery.
 ---
 
 # From the Storm to the Fire
 
-**A memoir of a life lived on high alert.**
+**Trauma doesn't fade. It rewires.**
 
-This is a journey from damage to meaning to agency—a story about healing complex trauma, told backwards. From the storm outside to the fire inside, through survival adaptations and their consequences.
+This is a memoir about Complex PTSD — not as a diagnosis, but as a lived nervous-system reality.  
+It is told **backwards**: starting with adulthood survival patterns and tracing them relentlessly back to their origins.
+
+This book is for people who were never "dramatic," never "weak," never "broken" — just wired for danger too early and for too long.
 
 ---
 
@@ -15,66 +19,78 @@ This is a journey from damage to meaning to agency—a story about healing compl
 
 **From the Storm to the Fire** explores the lived experience of complex trauma through the lens of the "Glass Box Blueprint"—a framework that connects NICU beginnings, hypervigilance, attachment wounds, sensory overload, addiction, relationships, and avoidance into one coherent story of survival and meaning-making.
 
-### Structure
+This isn't a book about healing — it's a war story. We start where most memoirs end — with survival — and work our way to meaning.
 
-**Act I: Wiring (Chapters 1–4)**  
-The early blueprint: NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.
-
-**Act II: Fire (Chapters 5–9)**  
-The patterns emerge: loving on high alert, the kindness trap, the loop, the cost of silence, and escalation.
-
-**Act III: Healing (Chapters 10–13)**  
-Understanding the damage: wrong diagnoses, the Glass Box Blueprint, emotional flashbacks, and survival roles.
-
-**Act IV: Cost (Chapters 14–17)**  
-The consequences: the life not lived, parenting from the fire, loneliness beneath the noise, and the search for safety.
-
-**Act V: Ember (Chapter 22)**  
-What comes after the story ends.
-
-**Appendix: Toolkit (Chapters 18–20)**  
-Practical frameworks for regulation, boundaries, and continued healing.
+<a href="#chapters" class="cta-button">Read the Book →</a>
 
 ---
 
-## Chapters
+## Structure of the Book
+<a id="chapters"></a>
 
-### Act I: Wiring
-1. **Born Alert** — NICU, glass and wires, distance as blueprint
-2. **When Safety Shattered** — Domestic violence and early survival patterns  
-3. **The Body Learns First** — Sleep paralysis and the body's memory
-4. **The First Escapes** — Early coping mechanisms and dissociation
+### Act I — Survival
 
-### Act II: Fire
-5. **Loving on High Alert** — Relationships through a hypervigilant lens
-6. **The Kindness Trap** — When care becomes control
-7. **The Loop** — Repetition compulsion and familiar pain
-8. **The Cost of Silence** — What gets buried and what erupts
-9. **Escalation** — When the system breaks down
+- **Born Alert**  
+  Life begins in a state of emergency.
+- **When Safety Shattered**  
+  Domestic violence and early survival patterns.
+- **The Body Learns First**  
+  Sleep paralysis and the body's memory.
+- **The First Escapes**  
+  Early coping mechanisms and dissociation.
 
-### Act III: Healing
-10. **The Wrong Diagnoses** — Misunderstanding the source
-11. **The Glass Box Blueprint** — The framework that ties it all together
-12. **Emotional Flashbacks** — Understanding the body's time travel
-13. **Survival Roles** — The masks we wear to stay safe
+### Act II — Fire
 
-### Act IV: Cost
-14. **The Life I Didn't Live** — Grief for the unlived life
-15. **Parenting from the Fire** — Breaking cycles while still burning
-16. **The Loneliness Beneath the Noise** — Isolation in connection
-17. **Safety First** — The ongoing search for ground
+- **Loving on High Alert**  
+  Relationships through a hypervigilant lens.
+- **The Kindness Trap**  
+  When care becomes control.
+- **The Loop**  
+  Repetition compulsion and familiar pain.
+- **The Cost of Silence**  
+  What gets buried and what erupts.
+- **Escalation**  
+  When the system breaks down.
 
-### Act V: Ember
-22. **Epilogue: Still Burning, Still Here** — What comes after the story ends
+### Act III — Recognition
+
+- **The Wrong Diagnoses**  
+  Misunderstanding the source.
+- **The Glass Box Blueprint**  
+  The framework that ties it all together.
+- **Emotional Flashbacks**  
+  Understanding the body's time travel.
+- **Survival Roles**  
+  The masks we wear to stay safe.
+
+### Act IV — Cost
+
+- **The Life I Didn't Live**  
+  Grief for the unlived life.
+- **Parenting from the Fire**  
+  Breaking cycles while still burning.
+- **The Loneliness Beneath the Noise**  
+  Isolation in connection.
+- **Safety First**  
+  The ongoing search for ground.
+
+### Act V — Rewiring
+
+- **Epilogue: Still Burning, Still Here**  
+  What comes after the story ends.
 
 ### Appendix: Toolkit
-18. **Learning Regulation** — Practical tools for nervous system healing
-19. **Boundaries Feel Like Violence** — Understanding resistance to self-protection
-20. **Still Burning, Still Here** — Integration and ongoing practice
+
+- **Learning Regulation**  
+  Practical tools for nervous system healing.
+- **Boundaries Feel Like Violence**  
+  Understanding resistance to self-protection.
+- **Still Burning, Still Here**  
+  Integration and ongoing practice.
 
 ---
 
-## About
+## About This Memoir
 
 This memoir does three things:
 
@@ -84,9 +100,10 @@ This memoir does three things:
 
 It's written in a hybrid style—visceral and literary in the early chapters, grounded and reflective in the middle, conceptual synthesis at the end. The science is embedded in lived experience, not lectured. The trauma is real, but so is the meaning.
 
-[Read the book →](/from-the-storm-to-the-fire/book/)  
-[About the author →](/from-the-storm-to-the-fire/about.html)
+This book is what I wish I had at 13, 23, and hell — still wish I had now.
+
+[About the Author →](/from-the-storm-to-the-fire/about.html)
 
 ---
 
-*"The memoir of a life lived on high alert."*
+*"From symptoms to root causes — this memoir starts at the surface and works its way back to origins."*

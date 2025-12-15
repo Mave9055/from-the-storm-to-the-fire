@@ -1,21 +1,26 @@
 # Site settings
 title: From the Storm to the Fire
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A memoir about healing complex trauma. A survival story told backwards: 
-  from damage to meaning to agency.
+  A trauma memoir told backwards — from survival to origin. A raw, neuroscience-grounded account of Complex PTSD and recovery.
 baseurl: "/from-the-storm-to-the-fire" # the subpath of your site, e.g. /blog
 url: "https://mave9055.github.io" # the base hostname & protocol for your site
+
+# Author information
+author:
+  name: Daniel Lingar
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO and social sharing
+twitter:
+  card: summary_large_image
 
 # Navigation links for the header
 header_pages:
   - index.md
-  - book/act-1-wiring/1-the-storm-outside.md
-  - appendix/21-the-power-of-titration.md
   - about.md

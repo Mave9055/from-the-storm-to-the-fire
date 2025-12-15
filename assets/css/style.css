@@ -51,39 +51,104 @@ a:hover {
   border-bottom-color: #e74c3c;
 }
 
-/* Call-to-action links styling */
-a[href*="book"],
-a[href*="about"] {
+/* Navigation active state */
+nav a {
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-bottom: none;
+}
+
+nav a.active {
+  border-bottom: 2px solid #111;
+  font-weight: bold;
+}
+
+nav a:hover {
+  border-bottom: 2px solid #c0392b;
+}
+
+/* CTA Button Styling */
+.cta-button {
   display: inline-block;
   padding: 12px 24px;
+  background: #111;
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
+  border: none;
+  transition: all 0.3s ease;
+  margin: 1em 0;
+}
+
+.cta-button:hover {
+  background: #333;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  border-bottom: none;
+}
+
+/* About the Author link styling */
+a[href*="about"]:not(.cta-button) {
+  display: inline-block;
+  padding: 10px 20px;
   margin: 10px 10px 10px 0;
-  background-color: #c0392b;
-  color: white !important;
+  background-color: transparent;
+  color: #c0392b !important;
   border: 2px solid #c0392b;
   border-radius: 4px;
   font-weight: 600;
   text-align: center;
   transition: all 0.3s ease;
-  border-bottom: none;
 }
 
-a[href*="book"]:hover,
-a[href*="about"]:hover {
-  background-color: #e74c3c;
-  border-color: #e74c3c;
+a[href*="about"]:not(.cta-button):hover {
+  background-color: #c0392b;
+  color: white !important;
   transform: translateY(-2px);
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-/* Chapter list styling */
+/* Chapter list styling - improved readability */
 ol, ul {
   margin-left: 1.5em;
   margin-bottom: 1.5em;
 }
 
 li {
-  margin-bottom: 0.6em;
+  margin-bottom: 0.8em;
   line-height: 1.6;
+}
+
+/* Structure section - grid layout for better visual hierarchy */
+#chapters + h3 {
+  margin-top: 2em;
+}
+
+#chapters ~ h3 {
+  margin-top: 2.5em;
+  padding-top: 1em;
+  border-top: 1px solid #e1e4e8;
+}
+
+#chapters ~ ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#chapters ~ ul li {
+  padding-left: 1.5em;
+  position: relative;
+  margin-bottom: 1.2em;
+}
+
+#chapters ~ ul li:before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: #c0392b;
+  font-weight: bold;
 }
 
 /* Strong text emphasis */
@@ -99,8 +164,16 @@ hr {
   margin: 2.5em 0;
 }
 
-/* Blockquote styling for the tagline */
+/* Blockquote and emphasis styling */
 em {
+  color: #555;
+  font-style: italic;
+}
+
+blockquote {
+  border-left: 4px solid #c0392b;
+  padding-left: 1em;
+  margin-left: 0;
   color: #555;
   font-style: italic;
 }
@@ -130,10 +203,11 @@ em {
     font-size: 1.5em;
   }
   
-  a[href*="book"],
-  a[href*="about"] {
+  .cta-button,
+  a[href*="about"]:not(.cta-button) {
     display: block;
     margin: 10px 0;
+    text-align: center;
   }
 }
 
@@ -151,10 +225,40 @@ em {
 .site-title:hover {
   color: #c0392b !important;
   text-decoration: none;
+  border-bottom: none;
 }
 
 /* Footer improvements */
 .site-footer {
   border-top: 1px solid #e1e4e8;
   background-color: #f8f9fa;
+  margin-top: 3em;
+  padding-top: 2em;
+}
+
+.footer-col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-col {
+  flex: 1;
+  min-width: 200px;
+  margin-bottom: 1em;
+}
+
+.footer-col-3 {
+  text-align: right;
+}
+
+@media screen and (max-width: 600px) {
+  .footer-col-wrapper {
+    flex-direction: column;
+  }
+  
+  .footer-col-3 {
+    text-align: left;
+  }
 }

@@ -10,6 +10,8 @@ act: "Act I — Wiring"
 
 # Chapter 2 — When Safety Shattered
 
+<p class="chapter-orientation">Domestic violence, childhood trauma, and the moment safety became conditional.</p>
+
 The first time I learned the world could turn on you, I was five.
 
 Not in a big, cinematic way. Not with warning. It arrived quietly, disguised as normal life adjusting itself after a divorce. New house. New routines. A new man in the rooms where my father used to be.

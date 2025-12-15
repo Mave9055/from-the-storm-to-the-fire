@@ -10,6 +10,8 @@ act: "Act I — Wiring"
 
 # Chapter 1 — Born Alert
 
+<p class="chapter-orientation">The NICU, premature birth, and the nervous system's first lesson in survival through stillness.</p>
+
 They say I was born early.
 
 I’ve always felt late.

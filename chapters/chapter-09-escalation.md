@@ -10,6 +10,8 @@ act: "Act II — Fire"
 
 # Chapter 9 — Escalation
 
+<p class="chapter-orientation">When patterns intensify and the nervous system reaches breaking point.</p>
+
 I thought distance would fix it.
 
 A new place. New job. Clean slate. If I could just get far enough away, maybe the noise would finally quiet down. Maybe the fire would burn itself out without fuel.

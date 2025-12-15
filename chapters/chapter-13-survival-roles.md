@@ -10,6 +10,8 @@ act: "Act III — Healing"
 
 # Chapter 13 — Survival Roles
 
+<p class="chapter-orientation">Survival roles, adaptive identities, and the masks that become prisons.</p>
+
 Before I knew how to be myself, I learned how to survive.
 
 Survival doesn’t show up as one thing. It adapts. It finds whatever works and repeats it until it becomes identity. Over time, those adaptations harden into roles—ways of moving through the world that feel automatic, even inevitable.

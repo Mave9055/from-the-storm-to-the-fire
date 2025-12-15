@@ -10,6 +10,8 @@ act: "Act II — Fire"
 
 # Chapter 6 — The Kindness Trap
 
+<p class="chapter-orientation">The trap of kindness when your nervous system can't tell safety from danger.</p>
+
 Silence started as protection.
 
 It ended as erasure.

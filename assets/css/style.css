@@ -70,7 +70,7 @@ nav a:hover {
 /* CTA Button Styling */
 .cta-button {
   display: inline-block;
-  padding: 12px 24px;
+  padding: 16px 32px;
   background: #111;
   color: #fff !important;
   text-decoration: none;
@@ -78,14 +78,25 @@ nav a:hover {
   border-radius: 6px;
   border: none;
   transition: all 0.3s ease;
-  margin: 1em 0;
+  margin: 1.5em 0;
+  font-size: 18px;
+}
+
+.cta-button.primary {
+  background: #2c3e50;
+  padding: 18px 36px;
+  font-size: 19px;
 }
 
 .cta-button:hover {
   background: #333;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
   border-bottom: none;
+}
+
+.cta-button.primary:hover {
+  background: #1a252f;
 }
 
 /* About the Author link styling */
@@ -162,6 +173,22 @@ hr {
   border: none;
   border-top: 2px solid #e1e4e8;
   margin: 2.5em 0;
+}
+
+/* Pagination spacing */
+.post-content hr + p {
+  text-align: center;
+  margin: 32px 0 48px 0;
+  font-size: 16px;
+}
+
+/* Chapter orientation */
+.chapter-orientation {
+  font-size: 16px;
+  color: #666;
+  font-style: italic;
+  margin: 16px 0 32px 0;
+  line-height: 1.6;
 }
 
 /* Blockquote and emphasis styling */

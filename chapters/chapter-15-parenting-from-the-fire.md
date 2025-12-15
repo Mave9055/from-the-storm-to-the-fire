@@ -10,6 +10,8 @@ act: "Act IV — Cost"
 
 # Chapter 15 — Parenting From the Fire
 
+<p class="chapter-orientation">Parenting from a dysregulated nervous system and breaking generational patterns.</p>
+
 Becoming a parent didn’t heal me.
 
 It exposed me.

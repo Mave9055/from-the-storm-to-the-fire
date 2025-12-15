@@ -10,6 +10,8 @@ act: "Act III — Healing"
 
 # Chapter 11 — The Glass Box Blueprint
 
+<p class="chapter-orientation">The Glass Box Blueprint—how early containment shapes adult isolation.</p>
+
 Once I started asking the right question, the answers lined up fast.
 
 Not all at once. Not neatly. But clearly.

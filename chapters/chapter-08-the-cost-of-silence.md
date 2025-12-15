@@ -10,6 +10,8 @@ act: "Act II — Fire"
 
 # Chapter 8 — The Cost of Silence
 
+<p class="chapter-orientation">The price of silence and the weight of words left unsaid.</p>
+
 Grief assumes you have somewhere to land.
 
 I didn’t.

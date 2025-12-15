@@ -10,6 +10,8 @@ act: "Act III — Healing"
 
 # Chapter 10 — The Wrong Diagnoses
 
+<p class="chapter-orientation">Misdiagnosis, wrong treatments, and the search for answers in the wrong frameworks.</p>
+
 When everything finally collapsed, people needed a name for it.
 
 So did I.

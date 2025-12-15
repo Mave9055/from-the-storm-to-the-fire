@@ -10,6 +10,8 @@ act: "Act III — Healing"
 
 # Chapter 12 — Emotional Flashbacks
 
+<p class="chapter-orientation">Emotional flashbacks and the body's memory of danger without narrative.</p>
+
 I used to think I was overreacting.
 
 That was the word everyone used. Too sensitive. Too intense. Too much. When something small set me off, I’d feel it immediately—heat in my chest, pressure behind my eyes, the urge to flee or fight or disappear entirely.

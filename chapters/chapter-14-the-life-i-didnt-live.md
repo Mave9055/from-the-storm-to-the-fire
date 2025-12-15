@@ -10,6 +10,8 @@ act: "Act IV — Cost"
 
 # Chapter 14 — The Life I Didn't Live
 
+<p class="chapter-orientation">The life not chosen, the paths not taken, and the cost of hypervigilance.</p>
+
 There’s a kind of grief no one prepares you for.
 
 Not the grief of losing people—but the grief of losing *possibilities*.

@@ -20,11 +20,13 @@ It begins with symptoms and coping strategies — and works relentlessly back to
 This book is for people who were never fragile —  
 only trained, early, to survive.
 
-<a href="/from-the-storm-to-the-fire/chapters.html" class="cta-button">Read All 20 Chapters →</a>
+<a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button primary">▶ Start Reading — Chapter 1: Born Alert</a>
 
 ---
 
 ## Table of Contents
+
+**This manuscript is complete: 20 chapters across four acts.**
 
 1. [Chapter 1 — Born Alert](/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html)
 2. [Chapter 2 — When Safety Shattered](/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html)

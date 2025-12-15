@@ -10,6 +10,8 @@ act: "Act II — Fire"
 
 # Chapter 5 — Loving on High Alert
 
+<p class="chapter-orientation">Hypervigilance in relationships and the cost of loving while on high alert.</p>
+
 I didn’t fall in love looking for safety.
 
 I fell in love looking for relief.

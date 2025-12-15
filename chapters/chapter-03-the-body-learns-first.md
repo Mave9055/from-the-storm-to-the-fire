@@ -10,6 +10,8 @@ act: "Act I — Wiring"
 
 # Chapter 3 — The Body Learns First
 
+<p class="chapter-orientation">How the body stores trauma before the mind can name it.</p>
+
 I didn’t have language for what was happening to me.
 
 I just knew my body kept acting like the danger never left.

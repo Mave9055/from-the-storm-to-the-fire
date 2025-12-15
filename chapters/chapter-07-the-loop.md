@@ -10,6 +10,8 @@ act: "Act II — Fire"
 
 # Chapter 7 — The Loop
 
+<p class="chapter-orientation">Trauma bonding, repetition compulsion, and the loop that feels like fate.</p>
+
 I used to believe that the opposite of pain was numbness, and I chased it like salvation. What I learned, instead, was that the opposite of pain is **connection**, and connection is the scariest thing of all.
 
 When you grow up learning that the world is a series of escalating threats, your inner narrative is built on two simple, yet devastating, assumptions:

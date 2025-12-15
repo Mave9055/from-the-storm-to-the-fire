@@ -10,6 +10,8 @@ act: "Act I — Wiring"
 
 # Chapter 4 — The First Escapes
 
+<p class="chapter-orientation">Early coping mechanisms and the first patterns of escape.</p>
+
 Relief came before addiction.
 
 That part matters.

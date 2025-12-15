@@ -10,6 +10,8 @@ act: "Act IV — Cost"
 
 # Chapter 17 — Safety First
 
+<p class="chapter-orientation">The search for safety and what it means to finally stand down.</p>
+
 Healing didn’t start with insight.
 
 It started with safety.

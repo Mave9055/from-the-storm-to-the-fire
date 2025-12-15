@@ -10,6 +10,8 @@ act: "Appendix — Toolkit"
 
 # Chapter 18 — Learning Regulation
 
+<p class="chapter-orientation">Learning nervous system regulation after a lifetime of dysregulation.</p>
+
 **Appendix — Toolkit**
 
 

@@ -10,6 +10,8 @@ act: "Act IV — Cost"
 
 # Chapter 16 — The Loneliness Beneath the Noise
 
+<p class="chapter-orientation">The loneliness beneath productivity, achievement, and constant motion.</p>
+
 Loneliness isn’t always about being alone.
 
 Sometimes it’s about being unseen while surrounded by people.

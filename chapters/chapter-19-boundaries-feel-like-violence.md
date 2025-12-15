@@ -10,6 +10,8 @@ act: "Appendix — Toolkit"
 
 # Chapter 19 — Boundaries Feel Like Violence
 
+<p class="chapter-orientation">Why boundaries feel like violence when your body learned to survive through compliance.</p>
+
 **Appendix — Toolkit**
 
 

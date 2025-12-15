@@ -1,8 +1,3 @@
----
----
-
-@import "minima";
-
 /* Custom styles for From the Storm to the Fire */
 
 /* Typography improvements */
@@ -10,6 +5,7 @@ body {
   font-size: 18px;
   line-height: 1.7;
   color: #2c3e50;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -56,8 +52,8 @@ a:hover {
 }
 
 /* Call-to-action links styling */
-.home a[href*="book"],
-.home a[href*="about"] {
+a[href*="book"],
+a[href*="about"] {
   display: inline-block;
   padding: 12px 24px;
   margin: 10px 10px 10px 0;
@@ -71,8 +67,8 @@ a:hover {
   border-bottom: none;
 }
 
-.home a[href*="book"]:hover,
-.home a[href*="about"]:hover {
+a[href*="book"]:hover,
+a[href*="about"]:hover {
   background-color: #e74c3c;
   border-color: #e74c3c;
   transform: translateY(-2px);
@@ -134,8 +130,8 @@ em {
     font-size: 1.5em;
   }
   
-  .home a[href*="book"],
-  .home a[href*="about"] {
+  a[href*="book"],
+  a[href*="about"] {
     display: block;
     margin: 10px 0;
   }

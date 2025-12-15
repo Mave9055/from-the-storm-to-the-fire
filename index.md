@@ -20,18 +20,29 @@ It begins with symptoms and coping strategies — and works relentlessly back to
 This book is for people who were never fragile —  
 only trained, early, to survive.
 
+<a href="/from-the-storm-to-the-fire/chapters.html" class="cta-button">Read All 20 Chapters →</a>
+
 ---
 
 ## Book Structure
 
-### Act I — Survival
+### Act I — Wiring (Chapters 1–4)
 Hypervigilance, emotional armor, identity built around threat.
 
-### Act II — Recognition
+### Act II — Fire (Chapters 5–9)
 Attachment wounds, trauma bonding, nervous system collapse.
 
-### Act III — Rewiring
-Disarming vigilance, agency, integration, choice.
+### Act III — Healing (Chapters 10–13)
+Understanding the damage and the Glass Box Blueprint.
+
+### Act IV — Cost (Chapters 14–17)
+The life not lived, parenting from the fire, the search for safety.
+
+### Appendix — Toolkit (Chapters 18–20)
+Practical frameworks for regulation, boundaries, and continued healing.
+
+### Epilogue
+What comes after the story ends.
 
 ---
 

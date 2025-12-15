@@ -23,4 +23,5 @@ twitter:
 # Navigation links for the header
 header_pages:
   - index.md
+  - chapters.md
   - about.md

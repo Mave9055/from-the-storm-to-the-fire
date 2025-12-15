@@ -1,0 +1,164 @@
+---
+---
+
+@import "minima";
+
+/* Custom styles for From the Storm to the Fire */
+
+/* Typography improvements */
+body {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #2c3e50;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1a;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: none;
+  margin-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #e1e4e8;
+}
+
+h3 {
+  font-size: 1.4em;
+  color: #444;
+}
+
+/* Improve paragraph spacing */
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Better link styling */
+a {
+  color: #c0392b;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: #e74c3c;
+  border-bottom-color: #e74c3c;
+}
+
+/* Call-to-action links styling */
+.home a[href*="book"],
+.home a[href*="about"] {
+  display: inline-block;
+  padding: 12px 24px;
+  margin: 10px 10px 10px 0;
+  background-color: #c0392b;
+  color: white !important;
+  border: 2px solid #c0392b;
+  border-radius: 4px;
+  font-weight: 600;
+  text-align: center;
+  transition: all 0.3s ease;
+  border-bottom: none;
+}
+
+.home a[href*="book"]:hover,
+.home a[href*="about"]:hover {
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Chapter list styling */
+ol, ul {
+  margin-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.6em;
+  line-height: 1.6;
+}
+
+/* Strong text emphasis */
+strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 2px solid #e1e4e8;
+  margin: 2.5em 0;
+}
+
+/* Blockquote styling for the tagline */
+em {
+  color: #555;
+  font-style: italic;
+}
+
+/* Content wrapper improvements */
+.home {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Section spacing */
+.home > h2 {
+  margin-top: 2.5em;
+}
+
+/* Improve readability on smaller screens */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  .home a[href*="book"],
+  .home a[href*="about"] {
+    display: block;
+    margin: 10px 0;
+  }
+}
+
+/* Header improvements */
+.site-header {
+  border-top: 5px solid #c0392b;
+  border-bottom: 1px solid #e1e4e8;
+}
+
+.site-title {
+  font-weight: 600;
+  color: #2c3e50 !important;
+}
+
+.site-title:hover {
+  color: #c0392b !important;
+  text-decoration: none;
+}
+
+/* Footer improvements */
+.site-footer {
+  border-top: 1px solid #e1e4e8;
+  background-color: #f8f9fa;
+}

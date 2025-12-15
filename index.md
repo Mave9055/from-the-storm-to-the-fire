@@ -17,32 +17,60 @@ This is a journey from damage to meaning to agency—a story about healing compl
 
 ### Structure
 
-**Part I: Wiring (Chapters 1–3)**  
+**Act I: Wiring (Chapters 1–4)**  
 The early blueprint: NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.
 
-**Part II: Burning (Chapters 4–6)**  
-The collapse: twenty years of static, the breaking point, and what happens when the old strategies stop working.
+**Act II: Fire (Chapters 5–9)**  
+The patterns emerge: loving on high alert, the kindness trap, the loop, the cost of silence, and escalation.
 
-**Part III: Rising (Chapters 7–10)**  
-The reconstruction: adrift in North Dakota, anatomy of a spiral, decoding the fire, and synthesizing the Glass Box Blueprint.
+**Act III: Healing (Chapters 10–13)**  
+Understanding the damage: wrong diagnoses, the Glass Box Blueprint, emotional flashbacks, and survival roles.
 
-**Epilogue: Still Burning, Still Here**  
+**Act IV: Cost (Chapters 14–17)**  
+The consequences: the life not lived, parenting from the fire, loneliness beneath the noise, and the search for safety.
+
+**Act V: Ember (Chapter 22)**  
 What comes after the story ends.
+
+**Appendix: Toolkit (Chapters 18–20)**  
+Practical frameworks for regulation, boundaries, and continued healing.
 
 ---
 
 ## Chapters
 
-1. **The Storm Outside** — NICU, glass and wires, distance as blueprint
-2. **The Fire Ignites** — Domestic violence and early survival patterns  
-3. **Pain Takes Root** — Sleep paralysis and the body's memory
-4. **Twenty Years of Static** — Hypervigilance as a way of life
-5. **The Collapse** — When the system breaks down
-6. **The Breaking Point** — Crisis and the moment of reckoning
-7. **Adrift in North Dakota** — Geographic escape and isolation
-8. **Anatomy of a Spiral** — Understanding the descent
-9. **Decoding the Fire** — Making sense of the patterns
-10. **The Glass Box Blueprint** — The framework that ties it all together
+### Act I: Wiring
+1. **Born Alert** — NICU, glass and wires, distance as blueprint
+2. **When Safety Shattered** — Domestic violence and early survival patterns  
+3. **The Body Learns First** — Sleep paralysis and the body's memory
+4. **The First Escapes** — Early coping mechanisms and dissociation
+
+### Act II: Fire
+5. **Loving on High Alert** — Relationships through a hypervigilant lens
+6. **The Kindness Trap** — When care becomes control
+7. **The Loop** — Repetition compulsion and familiar pain
+8. **The Cost of Silence** — What gets buried and what erupts
+9. **Escalation** — When the system breaks down
+
+### Act III: Healing
+10. **The Wrong Diagnoses** — Misunderstanding the source
+11. **The Glass Box Blueprint** — The framework that ties it all together
+12. **Emotional Flashbacks** — Understanding the body's time travel
+13. **Survival Roles** — The masks we wear to stay safe
+
+### Act IV: Cost
+14. **The Life I Didn't Live** — Grief for the unlived life
+15. **Parenting from the Fire** — Breaking cycles while still burning
+16. **The Loneliness Beneath the Noise** — Isolation in connection
+17. **Safety First** — The ongoing search for ground
+
+### Act V: Ember
+22. **Epilogue: Still Burning, Still Here** — What comes after the story ends
+
+### Appendix: Toolkit
+18. **Learning Regulation** — Practical tools for nervous system healing
+19. **Boundaries Feel Like Violence** — Understanding resistance to self-protection
+20. **Still Burning, Still Here** — Integration and ongoing practice
 
 ---
 

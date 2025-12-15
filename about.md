@@ -30,4 +30,9 @@ Daniel Lingar is an advocate, writer, and teacher focused on the intersection of
 
 ---
 
+This book exists because surviving without understanding costs people years of their lives.  
+Language is the difference between self-blame and agency.
+
+---
+
 [← Back to Home](/from-the-storm-to-the-fire/)

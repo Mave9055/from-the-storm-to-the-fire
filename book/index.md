@@ -17,8 +17,8 @@ It is a memoir about surviving NICU trauma, domestic violence, and a decades-lon
 ---
 
 ## 📖 Start Reading
-* [**Act I: The Wiring**](/book/act-1-wiring/1-the-storm-outside.md)
-* [**The Appendix (Toolkit)**](/appendix/18-learning-regulation.md)
+* [**Act I: The Wiring**](/from-the-storm-to-the-fire/book/act-1-wiring/01-born-alert.html)
+* [**The Appendix (Toolkit)**](/from-the-storm-to-the-fire/book/appendix-toolkit/18-learning-regulation.html)
 
 > "The final, quiet truth is this: your trauma didn't make you broken; it made you adaptable. The intense sensitivity that once caused hypervigilance is now the depth of your empathy."
 
@@ -26,4 +26,5 @@ It is a memoir about surviving NICU trauma, domestic violence, and a decades-lon
 Daniel Lingar is an advocate for complex trauma recovery and the creator of the Glass Box Blueprint framework. He writes about the long road from survival to self-sovereignty.
 
 ---
+
 [Image: Placeholder for Book Cover Image]

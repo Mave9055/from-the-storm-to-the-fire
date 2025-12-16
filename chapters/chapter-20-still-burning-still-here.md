@@ -75,4 +75,4 @@ And for the first time, that feels like enough.
 
 ---
 
-[← Chapter 19](/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Epilogue →](/from-the-storm-to-the-fire/epilogue.html)
+[← Chapter 19](/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Home →](/from-the-storm-to-the-fire/)

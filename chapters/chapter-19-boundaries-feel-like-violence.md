@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 19 — Boundaries Feel Like Violence"
 chapter: 19
 act: "Appendix — Toolkit"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch19-crossroads.jpg
 ---
 
 **Progress:** Chapter 19 of 20  

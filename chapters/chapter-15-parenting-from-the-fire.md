@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 15 — Parenting From the Fire"
 chapter: 15
 act: "Act IV — Cost"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch15-inner-child-meeting.jpg
 ---
 
 **Progress:** Chapter 15 of 20  
 **Act IV — Cost**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch15-inner-child-meeting.jpg" alt="Chapter 15" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 15 — Parenting From the Fire
 

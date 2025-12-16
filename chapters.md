@@ -14,7 +14,7 @@ This manuscript is complete: **20 chapters across four acts.**
 
 ---
 
-<div class="toc-section fade-in">
+<div class="toc-section fade-in" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
 ## Act I: Wiring
 
@@ -54,7 +54,7 @@ This manuscript is complete: **20 chapters across four acts.**
 
 ---
 
-<div class="toc-section fade-in-delay-1">
+<div class="toc-section fade-in-delay-1" style="background: linear-gradient(135deg, rgba(230,126,34,0.05) 0%, rgba(243,156,18,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
 ## Act II: Fire
 
@@ -101,7 +101,7 @@ This manuscript is complete: **20 chapters across four acts.**
 
 ---
 
-<div class="toc-section fade-in-delay-2">
+<div class="toc-section fade-in-delay-2" style="background: linear-gradient(135deg, rgba(243,156,18,0.05) 0%, rgba(211,84,0,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
 ## Act III: Healing
 
@@ -141,7 +141,7 @@ This manuscript is complete: **20 chapters across four acts.**
 
 ---
 
-<div class="toc-section fade-in-delay-3">
+<div class="toc-section fade-in-delay-3" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
 ## Act IV: Cost
 

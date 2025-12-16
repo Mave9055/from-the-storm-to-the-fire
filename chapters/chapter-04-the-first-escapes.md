@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 4 — The First Escapes"
 chapter: 4
 act: "Act I — Wiring"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch04-restless.jpg
 ---
 
 **Progress:** Chapter 4 of 20  
 **Act I — Wiring**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch04-restless.jpg" alt="Chapter 4" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 4 — The First Escapes
 

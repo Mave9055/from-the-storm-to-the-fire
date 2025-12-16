@@ -4,8 +4,9 @@ title: From the Storm to the Fire
 description: A trauma memoir told backwards — from survival to origin. A raw, neuroscience-grounded account of Complex PTSD and recovery.
 ---
 
-<div class="hero-section">
-  <div class="hero-content">
+<div class="hero-section" style="background-image: url('/from-the-storm-to-the-fire/assets/images/hero-flames.jpg'); background-size: cover; background-position: center; position: relative;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(135deg, rgba(0,0,0,0.7) 0%, rgba(211,84,0,0.6) 100%);"></div>
+  <div class="hero-content" style="position: relative; z-index: 2;">
     <h1 class="hero-title">From the Storm to the Fire</h1>
     <p class="hero-subtitle">Trauma doesn't fade. It wires itself into the nervous system.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button primary">▶ Start Reading — Chapter 1</a>

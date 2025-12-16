@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 5 — Loving on High Alert"
 chapter: 5
 act: "Act II — Fire"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch05-reaching.jpg
 ---
 
 **Progress:** Chapter 5 of 20  
 **Act II — Fire**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch05-reaching.jpg" alt="Chapter 5" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 5 — Loving on High Alert
 

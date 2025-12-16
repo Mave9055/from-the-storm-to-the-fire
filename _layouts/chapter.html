@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  
+  <main class="wrapper">
+    {% if page.chapter_image %}
+    <div class="chapter-header-image" style="width: 100%; max-width: 1200px; margin: 2rem auto; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+      <img src="{{ page.chapter_image }}" alt="{{ page.title }}" style="width: 100%; height: auto; display: block;">
+    </div>
+    {% endif %}
+    
+    <article class="chapter-content">
+      {{ content }}
+    </article>
+  </main>
+  
+  {% include footer.html %}
+</body>
+</html>

@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 18 — Learning Regulation"
 chapter: 18
 act: "Appendix — Toolkit"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch18-meditation.jpg
 ---
 
 **Progress:** Chapter 18 of 20  

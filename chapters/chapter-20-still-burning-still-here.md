@@ -3,6 +3,7 @@ layout: default
 title: "Chapter 20 — Still Burning Still Here"
 chapter: 20
 act: "Appendix — Toolkit"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch20-rebuilding.jpg
 ---
 
 **Progress:** Chapter 20 of 20  

@@ -717,3 +717,108 @@ input:focus {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--primary-color);
 }
+
+/* ===================================
+   CHAPTER HEADER IMAGES
+   =================================== */
+
+.chapter-header-image {
+  position: relative;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.chapter-header-image:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+}
+
+.chapter-header-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.chapter-header-image:hover img {
+  transform: scale(1.05);
+}
+
+/* Enhanced hero section with background image support */
+.hero-section[style*="background-image"] {
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+/* Image gallery grid */
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.image-gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.image-gallery-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+}
+
+.image-gallery-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.image-gallery-item:hover img {
+  transform: scale(1.1);
+}
+
+/* About hero section */
+.about-hero {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%);
+  border-radius: 16px;
+  margin: 2rem 0 3rem 0;
+}
+
+/* Responsive images */
+@media (max-width: 768px) {
+  .chapter-header-image {
+    margin: 1rem auto 2rem;
+  }
+  
+  .hero-section {
+    min-height: 400px;
+  }
+  
+  .image-gallery {
+    grid-template-columns: 1fr;
+  }
+  
+  .image-gallery-item img {
+    height: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-section {
+    min-height: 350px;
+  }
+  
+  .chapter-header-image {
+    border-radius: 8px;
+  }
+}

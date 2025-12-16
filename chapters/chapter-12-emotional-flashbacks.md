@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 12 — Emotional Flashbacks"
 chapter: 12
 act: "Act III — Healing"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch12-flashback.jpg
 ---
 
 **Progress:** Chapter 12 of 20  
 **Act III — Healing**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch12-flashback.jpg" alt="Chapter 12" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 12 — Emotional Flashbacks
 

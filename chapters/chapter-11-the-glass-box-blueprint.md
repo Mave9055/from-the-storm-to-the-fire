@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 11 — The Glass Box Blueprint"
 chapter: 11
 act: "Act III — Healing"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch11-glass-box.jpg
 ---
 
 **Progress:** Chapter 11 of 20  
 **Act III — Healing**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch11-glass-box.jpg" alt="Chapter 11" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 11 — The Glass Box Blueprint
 

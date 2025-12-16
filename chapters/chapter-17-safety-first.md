@@ -3,10 +3,16 @@ layout: default
 title: "Chapter 17 — Safety First"
 chapter: 17
 act: "Act IV — Cost"
+chapter_image: /from-the-storm-to-the-fire/assets/images/ch17-door.jpg
 ---
 
 **Progress:** Chapter 17 of 20  
 **Act IV — Cost**
+
+
+<div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
+  <img src="/from-the-storm-to-the-fire/assets/images/ch17-door.jpg" alt="Chapter 17" style="width: 100%; height: auto; display: block;">
+</div>
 
 # Chapter 17 — Safety First
 

@@ -92,5 +92,5 @@ And it was finally asking to be acknowledged.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-11-*.html">← Chapter 11</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-13-*.html">Chapter 13 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html">← Chapter 11</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html">Chapter 13 →</a>
 </div>

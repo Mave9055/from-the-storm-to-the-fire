@@ -94,5 +94,5 @@ Even when answers come slowly.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-15-*.html">← Chapter 15</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-17-*.html">Chapter 17 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-15-parenting-from-the-fire.html">← Chapter 15</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html">Chapter 17 →</a>
 </div>

@@ -107,5 +107,5 @@ And for the first time, I started to suspect that what I’d been fighting wasn�
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-09-*.html">← Chapter 9</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-11-*.html">Chapter 11 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-09-escalation.html">← Chapter 9</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html">Chapter 11 →</a>
 </div>

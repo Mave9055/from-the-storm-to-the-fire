@@ -107,5 +107,5 @@ And start understanding why.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-13-*.html">← Chapter 13</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-15-*.html">Chapter 15 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html">← Chapter 13</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-15-parenting-from-the-fire.html">Chapter 15 →</a>
 </div>

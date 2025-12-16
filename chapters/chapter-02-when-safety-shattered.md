@@ -113,5 +113,5 @@ The alert never did.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-01-*.html">← Chapter 1</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-03-*.html">Chapter 3 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html">← Chapter 1</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-03-the-body-learns-first.html">Chapter 3 →</a>
 </div>

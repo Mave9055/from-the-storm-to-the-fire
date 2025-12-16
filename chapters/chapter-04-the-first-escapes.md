@@ -98,5 +98,5 @@ And for a long time, it worked.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-03-*.html">← Chapter 3</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-05-*.html">Chapter 5 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-03-the-body-learns-first.html">← Chapter 3</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-05-loving-on-high-alert.html">Chapter 5 →</a>
 </div>

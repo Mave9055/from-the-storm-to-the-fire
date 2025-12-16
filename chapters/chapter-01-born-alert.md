@@ -79,5 +79,5 @@ I entered it alert.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/">← Home</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-02-*.html">Chapter 2 →</a>
+  <a href="/from-the-storm-to-the-fire/">← Home</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html">Chapter 2 →</a>
 </div>

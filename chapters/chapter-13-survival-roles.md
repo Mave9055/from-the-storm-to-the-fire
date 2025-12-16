@@ -89,5 +89,5 @@ Who am I when I don’t need to survive?
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-12-*.html">← Chapter 12</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-14-*.html">Chapter 14 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-12-emotional-flashbacks.html">← Chapter 12</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-14-the-life-i-didnt-live.html">Chapter 14 →</a>
 </div>

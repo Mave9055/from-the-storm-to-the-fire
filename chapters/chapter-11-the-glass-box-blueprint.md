@@ -99,5 +99,5 @@ I was learning how it was built.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-10-*.html">← Chapter 10</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-12-*.html">Chapter 12 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-10-the-wrong-diagnoses.html">← Chapter 10</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-12-emotional-flashbacks.html">Chapter 12 →</a>
 </div>

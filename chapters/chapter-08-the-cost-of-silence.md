@@ -98,5 +98,5 @@ And something inside me finally gave way.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-07-*.html">← Chapter 7</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-09-*.html">Chapter 9 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-07-the-loop.html">← Chapter 7</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-09-escalation.html">Chapter 9 →</a>
 </div>

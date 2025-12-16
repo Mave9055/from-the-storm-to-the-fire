@@ -94,5 +94,5 @@ It had learned too well.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-02-*.html">← Chapter 2</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-04-*.html">Chapter 4 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html">← Chapter 2</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-04-the-first-escapes.html">Chapter 4 →</a>
 </div>

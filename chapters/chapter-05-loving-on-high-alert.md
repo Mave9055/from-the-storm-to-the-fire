@@ -95,5 +95,5 @@ And familiarity, for me, had always come with a cost.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-04-*.html">← Chapter 4</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-06-*.html">Chapter 6 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-04-the-first-escapes.html">← Chapter 4</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-06-the-kindness-trap.html">Chapter 6 →</a>
 </div>

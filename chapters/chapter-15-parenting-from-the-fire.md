@@ -90,5 +90,5 @@ One willing to see the fire, take responsibility for it, and learn—slowly—ho
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-14-*.html">← Chapter 14</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-16-*.html">Chapter 16 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-14-the-life-i-didnt-live.html">← Chapter 14</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html">Chapter 16 →</a>
 </div>

@@ -9,6 +9,7 @@ description: A trauma memoir told backwards — from survival to origin. A raw, 
   <div class="hero-content" style="position: relative; z-index: 2;">
     <h1 class="hero-title">From the Storm to the Fire</h1>
     <p class="hero-subtitle">Trauma doesn't fade. It wires itself into the nervous system.</p>
+    <a href="/from-the-storm-to-the-fire/read-first/" class="cta-button">Read First</a>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html" class="cta-button primary">▶ Start Reading — Chapter 1</a>
     <a href="/from-the-storm-to-the-fire/chapters.html" class="cta-button secondary">View All Chapters</a>
   </div>

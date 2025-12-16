@@ -103,9 +103,9 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="toc-section fade-in-delay-2" style="background: linear-gradient(135deg, rgba(243,156,18,0.05) 0%, rgba(211,84,0,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Act III: Healing
+## Act III: Meaning and Debt
 
-**Understanding the damage: wrong diagnoses, the Glass Box Blueprint, emotional flashbacks, and survival roles.**
+**Understanding the map and facing its immediate cost: wrong diagnoses, the Glass Box Blueprint, emotional flashbacks, survival roles, and the life lost to the fire.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
@@ -135,19 +135,7 @@ This manuscript is complete: **20 chapters across four acts.**
     <p>The masks we wear to stay safe and the cost of never taking them off.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html" class="cta-button">Read Chapter →</a>
   </div>
-</div>
-
-</div>
-
----
-
-<div class="toc-section fade-in-delay-3" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
-
-## Act IV: Cost
-
-**The consequences: the life not lived, parenting from the fire, loneliness beneath the noise, and the search for safety.**
-
-<div class="chapter-grid">
+  
   <div class="chapter-card">
     <h3>Chapter 14</h3>
     <h4>The Life I Didn't Live</h4>
@@ -168,26 +156,26 @@ This manuscript is complete: **20 chapters across four acts.**
     <p>The isolation that comes from never being fully seen or known.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html" class="cta-button">Read Chapter →</a>
   </div>
-  
-  <div class="chapter-card">
-    <h3>Chapter 17</h3>
-    <h4>Safety First</h4>
-    <p>Learning that safety can be built, not earned.</p>
-    <a href="/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html" class="cta-button">Read Chapter →</a>
-  </div>
 </div>
 
 </div>
 
 ---
 
-<div class="toc-section">
+<div class="toc-section fade-in-delay-3" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Appendix: Toolkit
+## Act IV: Agency
 
-**Practical frameworks for regulation, boundaries, and continued healing.**
+**The path forward: finding safety, learning regulation, building boundaries, and continuing the work.**
 
 <div class="chapter-grid">
+  <div class="chapter-card">
+    <h3>Chapter 17</h3>
+    <h4>Safety First</h4>
+    <p>Learning that safety can be built, not earned.</p>
+    <a href="/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html" class="cta-button">Read Chapter →</a>
+  </div>
+  
   <div class="chapter-card">
     <h3>Chapter 18</h3>
     <h4>Learning Regulation</h4>
@@ -204,7 +192,7 @@ This manuscript is complete: **20 chapters across four acts.**
   
   <div class="chapter-card">
     <h3>Chapter 20</h3>
-    <h4>Still Burning Still Here</h4>
+    <h4>Still Burning, Still Here</h4>
     <p>Integration, meaning-making, and what comes after the fire.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-20-still-burning-still-here.html" class="cta-button">Read Chapter →</a>
   </div>

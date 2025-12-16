@@ -40,9 +40,19 @@ It just waits.
 
 When the shifts ended and the doors locked, the silence hit harder. No family. No familiar faces. No buffer. Just me, alone in a small room, my nervous system finally free to do what it does best: replay everything.
 
-Isolation stripped away my last distractions.
+**Isolation stripped away my last distractions.**
 
-That’s when escalation stepped in.
+But it was more than that. The environment I'd chosen—no family, no familiar faces, no buffer—wasn't random. It was a geographic replication of the original wound. 
+
+I had recreated the **Glass Box**.
+
+Life was happening somewhere else. Visible through the walls of my small room. Loud enough to hear. Close enough to see. But never fully reachable. I was back inside that transparent barrier, watching the world move while I stayed still, stayed quiet, didn't need too much.
+
+The move to North Dakota wasn't just about removing witnesses. It was about returning to the only environment my nervous system truly understood: **isolation as structure**. The box I'd been taught to survive in.
+
+And inside that box, extreme measures weren't a choice. They were **maintenance**.
+
+That's when escalation stepped in.
 
 Substances stopped being optional relief and became maintenance. Something to keep me upright. Something to blunt the edge of nights that stretched too long and thoughts that wouldn’t shut up.
 
@@ -68,11 +78,13 @@ Barely.
 
 And survival came at a cost.
 
-Meth didn’t make me reckless at first. It made me functional. Awake. Focused. Able to push past exhaustion and dread long enough to finish what needed doing. It felt like efficiency. Like control.
+Meth didn't make me reckless at first. It made me functional. Awake. Focused. Able to push past exhaustion and dread long enough to finish what needed doing. It felt like efficiency. Like control.
 
-That’s how escalation works.
+This wasn't a moral failing. It was a **biological imperative**. The body had given out on the old tools. Burnout wasn't the failure—it was the body's revolt. And when the old system breaks, you have to find a replacement just to be able to stand up and go to work.
 
-It doesn’t announce itself as destruction.  
+That's how escalation works.
+
+It doesn't announce itself as destruction.  
 It shows up as a solution.
 
 Weeks passed where work was the only place I existed. When I wasn’t there, I stayed hidden. Avoided stores. Avoided people. If something wasn’t stocked at work, I paid someone else to get it. Human interaction felt like walking into traffic.
@@ -83,9 +95,11 @@ I was maintaining.
 
 The further I isolated, the more the substances mattered. The more they mattered, the less room there was for anything else. The system fed itself until the edges of my life disappeared completely.
 
-Distance hadn’t fixed anything.
+Distance hadn't fixed anything.
 
-It had just removed witnesses.
+It had just removed witnesses—and forced a return to the original state of isolation.
+
+The Glass Box had followed me across state lines. And inside it, the drug use wasn't chaos. It was what I had to do to survive inside the transparent walls.
 
 Escalation isn’t about wanting more.
 
@@ -107,5 +121,5 @@ It was in control.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-08-*.html">← Chapter 8</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-10-*.html">Chapter 10 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-08-the-cost-of-silence.html">← Chapter 8</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-10-the-wrong-diagnoses.html">Chapter 10 →</a>
 </div>

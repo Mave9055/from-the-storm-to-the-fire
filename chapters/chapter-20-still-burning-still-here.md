@@ -2,24 +2,16 @@
 layout: default
 title: "Chapter 20 — Still Burning Still Here"
 chapter: 20
-act: "Appendix — Toolkit"
+act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch20-rebuilding.jpg
 ---
 
 **Progress:** Chapter 20 of 20  
-**Appendix — Toolkit**
+**Act IV — Agency**
 
-# Chapter 20 — Still Burning Still Here
+# Chapter 20 — Still Burning, Still Here
 
 <p class="chapter-orientation">Integration, meaning-making, and what comes after the fire.</p>
-
-**Appendix — Toolkit**
-
-
-**Appendix — Toolkit**
-
-
-**Appendix — Toolkit**
 
 
 The fire never went out.
@@ -52,15 +44,33 @@ Choice is quieter than transformation.
 
 But it’s real.
 
-I am still learning how to live without armor. Still learning that safety can be built, not earned. Still learning that rest doesn’t mean collapse and boundaries don’t mean abandonment.
+I am still learning how to live without armor. Still learning that safety can be built, not earned. Still learning that rest doesn't mean collapse and boundaries don't mean abandonment.
 
-I don’t measure progress by how little I feel anymore.
+I don't measure progress by how little I feel anymore.
 
 I measure it by how much I can stay.
 
 Stay with discomfort.  
 Stay in conversation.  
 Stay present with my kids, my body, my life.  
+
+---
+
+## Outside the Glass Wall
+
+The fire still burns.
+
+But I am no longer trapped behind the transparent wall.
+
+For so long, I lived inside the **Glass Box**—watching life happen somewhere else, visible and loud but never fully reachable. Stillness and silence were survival. Movement was risk. Connection was dangerous.
+
+Healing wasn't about extinguishing the fire. It wasn't about mastering the heat or pretending it never existed.
+
+It was about learning to **live fully outside the glass wall**—acknowledging the heat, the fire, the scars—but no longer being trapped by that isolating structure.
+
+I can feel the warmth now without being consumed by it. I can move without freezing. I can need without disappearing. I can be seen without performing.
+
+The Glass Box didn't shatter. I just learned I was never locked inside.
 
 The fire still burns.
 
@@ -84,5 +94,5 @@ And for the first time, that feels like enough.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-19-*.html">← Chapter 19</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/">Home →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html">← Chapter 19</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/">Home →</a>
 </div>

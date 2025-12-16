@@ -47,6 +47,22 @@ The key to breaking the loop isn't to stop fighting the pain; it's to lower the 
 
 ---
 
+## The Body's Revolt
+
+But here's what I didn't understand then: **the loop wasn't just psychological. It was physiological.**
+
+By the time I reached my late twenties, the work of maintaining the loop had become unbearable. My chest would tighten like I was about to be hit. My hands would shake before meetings. I'd wake up gasping, my nervous system screaming alerts that had no source.
+
+This wasn't burnout in the conventional sense—being tired, needing a vacation. This was **complete functional collapse**. My body was rejecting the survival role itself. The old tools—hypervigilance, overperformance, relentless control—weren't just failing. They were actively destroying me.
+
+I couldn't stand up without my heart racing. I couldn't focus without my vision tunneling. The body that had carried me through decades of threat was now the threat.
+
+What I needed wasn't rest. What I needed was something—anything—that would let me stand up and go to work. Something that would override the revolt and force the system back online.
+
+That's when the search for efficiency became a search for survival.
+
+---
+
 
 ---
 
@@ -55,5 +71,5 @@ The key to breaking the loop isn't to stop fighting the pain; it's to lower the 
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-06-*.html">← Chapter 6</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-08-*.html">Chapter 8 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-06-the-kindness-trap.html">← Chapter 6</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-08-the-cost-of-silence.html">Chapter 8 →</a>
 </div>

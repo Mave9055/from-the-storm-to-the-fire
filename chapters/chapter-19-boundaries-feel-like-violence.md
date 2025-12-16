@@ -2,24 +2,16 @@
 layout: default
 title: "Chapter 19 — Boundaries Feel Like Violence"
 chapter: 19
-act: "Appendix — Toolkit"
+act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch19-crossroads.jpg
 ---
 
 **Progress:** Chapter 19 of 20  
-**Appendix — Toolkit**
+**Act IV — Agency**
 
 # Chapter 19 — Boundaries Feel Like Violence
 
 <p class="chapter-orientation">Why boundaries feel like violence when your body learned to survive through compliance.</p>
-
-**Appendix — Toolkit**
-
-
-**Appendix — Toolkit**
-
-
-**Appendix — Toolkit**
 
 
 The first time I set a real boundary, my body reacted like I’d started a fight.
@@ -104,5 +96,5 @@ The kind that grows when you finally stop abandoning yourself.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-18-*.html">← Chapter 18</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-20-*.html">Chapter 20 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html">← Chapter 18</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-20-still-burning-still-here.html">Chapter 20 →</a>
 </div>

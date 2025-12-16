@@ -2,12 +2,12 @@
 layout: default
 title: "Chapter 17 — Safety First"
 chapter: 17
-act: "Act IV — Cost"
+act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch17-door.jpg
 ---
 
 **Progress:** Chapter 17 of 20  
-**Act IV — Cost**
+**Act IV — Agency**
 
 
 <div class="chapter-header-image fade-in" style="width: 100%; max-width: 900px; margin: 2rem auto 3rem; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,0.3);">
@@ -44,13 +44,29 @@ Structure helped—until it became pressure.
 
 Safety turned out to be specific, not abstract.
 
-I had to make changes that didn’t look heroic. Leaving situations that kept me dysregulated. Reducing exposure instead of increasing tolerance. Choosing boring over volatile. Predictable over exciting. Calm over chemistry.
+I had to make changes that didn't look heroic. Leaving situations that kept me dysregulated. Reducing exposure instead of increasing tolerance. **Choosing boring over volatile. Predictable over exciting. Calm over chemistry.**
 
 It felt wrong at first.
 
-My body was so used to intensity that safety felt like emptiness. Stillness felt like depression. Rest felt like giving up. I had to learn—slowly—that peace doesn’t come with fireworks.
+My body was so used to intensity that safety felt like emptiness. Stillness felt like depression. Rest felt like giving up. I had to learn—slowly—that peace doesn't come with fireworks.
 
 It comes with breath.
+
+---
+
+## Dismantling the NICU System
+
+What I was really doing was **purposefully dismantling the lesson from childhood**: that intensity equals connection. That chaos means you matter. That alarms are the only form of arms.
+
+In the NICU, in the glass box, I learned that stillness and silence were survival. That needing too much was dangerous. That the world beyond the transparent wall was loud and visible but never fully reachable.
+
+Choosing predictable over exciting wasn't settling. It was **choosing to finally live outside the NICU system**—outside the cycle of alarms pretending to be connection.
+
+**Alarms instead of arms.** That's what I'd been living on. The spike of adrenaline mistaken for intimacy. The crisis mistaken for care.
+
+Safety meant learning that I could be held without an emergency. That I could be seen without performing. That I could need things without triggering abandonment.
+
+It meant stepping outside the Glass Box—not by shattering it, but by learning I was no longer trapped inside.
 
 Creating safety wasn’t about avoiding life.
 
@@ -90,5 +106,5 @@ Everything else comes later.
 ---
 
 <div class="chapter-nav">
-  <a href="/from-the-storm-to-the-fire/chapters/chapter-16-*.html">← Chapter 16</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-18-*.html">Chapter 18 →</a>
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html">← Chapter 16</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html">Chapter 18 →</a>
 </div>

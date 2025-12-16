@@ -93,4 +93,13 @@ And for the first time, I started to suspect that what I’d been fighting wasn�
 
 ---
 
-[← Chapter 9](/from-the-storm-to-the-fire/chapters/chapter-09-escalation.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 11 →](/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-09-*.html">← Chapter 9</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-11-*.html">Chapter 11 →</a>
+</div>

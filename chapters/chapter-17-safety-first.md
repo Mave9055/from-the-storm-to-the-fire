@@ -76,4 +76,13 @@ Everything else comes later.
 
 ---
 
-[← Chapter 16](/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 18 →](/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-16-*.html">← Chapter 16</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-18-*.html">Chapter 18 →</a>
+</div>

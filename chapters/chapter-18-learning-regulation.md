@@ -91,4 +91,13 @@ It was something I was learning to inhabit.
 
 ---
 
-[← Chapter 17](/from-the-storm-to-the-fire/chapters/chapter-17-safety-first.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 19 →](/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-17-*.html">← Chapter 17</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-19-*.html">Chapter 19 →</a>
+</div>

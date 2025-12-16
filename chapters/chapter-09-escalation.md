@@ -93,4 +93,13 @@ It was in control.
 
 ---
 
-[← Chapter 8](/from-the-storm-to-the-fire/chapters/chapter-08-the-cost-of-silence.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 10 →](/from-the-storm-to-the-fire/chapters/chapter-10-the-wrong-diagnoses.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-08-*.html">← Chapter 8</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-10-*.html">Chapter 10 →</a>
+</div>

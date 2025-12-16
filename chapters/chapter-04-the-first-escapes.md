@@ -84,4 +84,13 @@ And for a long time, it worked.
 
 ---
 
-[← Chapter 3](/from-the-storm-to-the-fire/chapters/chapter-03-the-body-learns-first.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 5 →](/from-the-storm-to-the-fire/chapters/chapter-05-loving-on-high-alert.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-03-*.html">← Chapter 3</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-05-*.html">Chapter 5 →</a>
+</div>

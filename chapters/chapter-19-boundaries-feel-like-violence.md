@@ -95,4 +95,13 @@ The kind that grows when you finally stop abandoning yourself.
 
 ---
 
-[← Chapter 18](/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 20 →](/from-the-storm-to-the-fire/chapters/chapter-20-still-burning-still-here.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-18-*.html">← Chapter 18</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-20-*.html">Chapter 20 →</a>
+</div>

@@ -84,4 +84,13 @@ And something inside me finally gave way.
 
 ---
 
-[← Chapter 7](/from-the-storm-to-the-fire/chapters/chapter-07-the-loop.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 9 →](/from-the-storm-to-the-fire/chapters/chapter-09-escalation.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-07-*.html">← Chapter 7</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-09-*.html">Chapter 9 →</a>
+</div>

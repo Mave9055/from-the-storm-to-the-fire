@@ -78,4 +78,13 @@ And it was finally asking to be acknowledged.
 
 ---
 
-[← Chapter 11](/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 13 →](/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-11-*.html">← Chapter 11</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-13-*.html">Chapter 13 →</a>
+</div>

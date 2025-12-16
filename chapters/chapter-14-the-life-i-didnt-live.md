@@ -93,4 +93,13 @@ And start understanding why.
 
 ---
 
-[← Chapter 13](/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 15 →](/from-the-storm-to-the-fire/chapters/chapter-15-parenting-from-the-fire.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-13-*.html">← Chapter 13</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-15-*.html">Chapter 15 →</a>
+</div>

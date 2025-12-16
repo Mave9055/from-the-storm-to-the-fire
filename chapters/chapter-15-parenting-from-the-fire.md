@@ -76,4 +76,13 @@ One willing to see the fire, take responsibility for it, and learn—slowly—ho
 
 ---
 
-[← Chapter 14](/from-the-storm-to-the-fire/chapters/chapter-14-the-life-i-didnt-live.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 16 →](/from-the-storm-to-the-fire/chapters/chapter-16-the-loneliness-beneath-the-noise.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-14-*.html">← Chapter 14</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-16-*.html">Chapter 16 →</a>
+</div>

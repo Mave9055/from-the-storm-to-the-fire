@@ -80,4 +80,13 @@ It had learned too well.
 
 ---
 
-[← Chapter 2](/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 4 →](/from-the-storm-to-the-fire/chapters/chapter-04-the-first-escapes.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-02-*.html">← Chapter 2</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-04-*.html">Chapter 4 →</a>
+</div>

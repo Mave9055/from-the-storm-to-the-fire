@@ -85,4 +85,13 @@ I was learning how it was built.
 
 ---
 
-[← Chapter 10](/from-the-storm-to-the-fire/chapters/chapter-10-the-wrong-diagnoses.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 12 →](/from-the-storm-to-the-fire/chapters/chapter-12-emotional-flashbacks.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-10-*.html">← Chapter 10</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-12-*.html">Chapter 12 →</a>
+</div>

@@ -99,4 +99,13 @@ The alert never did.
 
 ---
 
-[← Chapter 1](/from-the-storm-to-the-fire/chapters/chapter-01-born-alert.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 3 →](/from-the-storm-to-the-fire/chapters/chapter-03-the-body-learns-first.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-01-*.html">← Chapter 1</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-03-*.html">Chapter 3 →</a>
+</div>

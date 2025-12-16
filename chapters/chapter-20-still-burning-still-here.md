@@ -75,4 +75,13 @@ And for the first time, that feels like enough.
 
 ---
 
-[← Chapter 19](/from-the-storm-to-the-fire/chapters/chapter-19-boundaries-feel-like-violence.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Home →](/from-the-storm-to-the-fire/)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-19-*.html">← Chapter 19</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/">Home →</a>
+</div>

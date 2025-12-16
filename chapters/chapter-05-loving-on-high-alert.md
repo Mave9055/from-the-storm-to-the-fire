@@ -81,4 +81,13 @@ And familiarity, for me, had always come with a cost.
 
 ---
 
-[← Chapter 4](/from-the-storm-to-the-fire/chapters/chapter-04-the-first-escapes.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 6 →](/from-the-storm-to-the-fire/chapters/chapter-06-the-kindness-trap.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-04-*.html">← Chapter 4</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-06-*.html">Chapter 6 →</a>
+</div>

@@ -72,4 +72,13 @@ And I didn’t yet know how to make noise without setting everything on fire.
 
 ---
 
-[← Chapter 5](/from-the-storm-to-the-fire/chapters/chapter-05-loving-on-high-alert.html) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 7 →](/from-the-storm-to-the-fire/chapters/chapter-07-the-loop.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/chapters/chapter-05-*.html">← Chapter 5</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-07-*.html">Chapter 7 →</a>
+</div>

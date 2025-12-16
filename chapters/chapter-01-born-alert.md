@@ -65,4 +65,13 @@ I entered it alert.
 
 ---
 
-[← Home](/from-the-storm-to-the-fire/) | [Table of Contents](/from-the-storm-to-the-fire/chapters.html) | [Chapter 2 →](/from-the-storm-to-the-fire/chapters/chapter-02-when-safety-shattered.html)
+
+---
+
+<div class="chapter-nav">
+
+---
+
+<div class="chapter-nav">
+  <a href="/from-the-storm-to-the-fire/">← Home</a> | <a href="/from-the-storm-to-the-fire/chapters.html">Table of Contents</a> | <a href="/from-the-storm-to-the-fire/chapters/chapter-02-*.html">Chapter 2 →</a>
+</div>

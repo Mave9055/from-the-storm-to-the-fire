@@ -10,7 +10,7 @@ description: Complete table of contents for From the Storm to the Fire - all 20 
 
 **From the Storm to the Fire** — A complete memoir in 20 chapters.
 
-**New here? Start with:** [Read First](/from-the-storm-to-the-fire/read-first/)
+**New here? Start with:** [Read First]({{ site.baseurl }}/read-first/)
 
 This manuscript is complete: **20 chapters across four acts.**
 

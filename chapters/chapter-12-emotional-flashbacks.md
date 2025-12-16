@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 12 — Emotional Flashbacks"
+title: "Chapter 12 — When Yesterday Burns Today"
 chapter: 12
 act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch12-flashback.jpg

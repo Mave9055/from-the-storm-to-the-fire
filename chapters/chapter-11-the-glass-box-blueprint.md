@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 11 — The Glass Box Blueprint"
+title: "Chapter 11 — The Life Planned Behind Invisible Walls"
 chapter: 11
 act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch11-glass-box.jpg

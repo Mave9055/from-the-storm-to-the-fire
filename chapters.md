@@ -16,9 +16,9 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="toc-section fade-in" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Act I: Wiring
+## Act I: The Adult Defense — Working Back to the Blueprint of Wiring
 
-**The early blueprint: NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.**
+**How survival patterns formed in the body: tracing current hypervigilance back to the NICU, domestic violence, sleep paralysis, and the nervous system adaptations that became a way of life.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
@@ -56,9 +56,9 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="toc-section fade-in-delay-1" style="background: linear-gradient(135deg, rgba(230,126,34,0.05) 0%, rgba(243,156,18,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Act II: Fire
+## Act II: The Cost of High Alert — Tracing Current Patterns Back to the Fire
 
-**The patterns emerge: loving on high alert, the kindness trap, the loop, the cost of silence, and escalation.**
+**How trauma shaped relationships and self: working backward from burnout and exhaustion to loving on high alert, the kindness trap, the loop, the cost of silence, and escalation.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
@@ -103,9 +103,9 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="toc-section fade-in-delay-2" style="background: linear-gradient(135deg, rgba(243,156,18,0.05) 0%, rgba(211,84,0,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Act III: Meaning and Debt
+## Act III: The Present Cost — Understanding the Map and Facing the Debt
 
-**Understanding the map and facing its immediate cost: wrong diagnoses, the Glass Box Blueprint, emotional flashbacks, survival roles, and the life lost to the fire.**
+**Living with Complex PTSD now: recognizing wrong diagnoses, the invisible barriers, when yesterday burns today, the roles we couldn't escape, and grieving the life lost to the fire.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
@@ -117,21 +117,21 @@ This manuscript is complete: **20 chapters across four acts.**
   
   <div class="chapter-card">
     <h3>Chapter 11</h3>
-    <h4>The Glass Box Blueprint</h4>
+    <h4>The Life Planned Behind Invisible Walls</h4>
     <p>The invisible barrier between you and the world, and how it forms.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-11-the-glass-box-blueprint.html" class="cta-button">Read Chapter →</a>
   </div>
   
   <div class="chapter-card">
     <h3>Chapter 12</h3>
-    <h4>Emotional Flashbacks</h4>
+    <h4>When Yesterday Burns Today</h4>
     <p>When the past invades the present without warning or context.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-12-emotional-flashbacks.html" class="cta-button">Read Chapter →</a>
   </div>
   
   <div class="chapter-card">
     <h3>Chapter 13</h3>
-    <h4>Survival Roles</h4>
+    <h4>The Costumes We Couldn't Take Off</h4>
     <p>The masks we wear to stay safe and the cost of never taking them off.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-13-survival-roles.html" class="cta-button">Read Chapter →</a>
   </div>
@@ -164,9 +164,9 @@ This manuscript is complete: **20 chapters across four acts.**
 
 <div class="toc-section fade-in-delay-3" style="background: linear-gradient(135deg, rgba(211,84,0,0.05) 0%, rgba(230,126,34,0.05) 100%); padding: 2rem; border-radius: 16px; margin-bottom: 3rem;">
 
-## Act IV: Agency
+## Act IV: Building Agency — The Slow Work of Reclaiming Self
 
-**The path forward: finding safety, learning regulation, building boundaries, and continuing the work.**
+**The messy, ongoing work of healing: finding safety, retraining the nervous system, confronting why boundaries feel like violence, and continuing the work of recovery.**
 
 <div class="chapter-grid">
   <div class="chapter-card">
@@ -178,7 +178,7 @@ This manuscript is complete: **20 chapters across four acts.**
   
   <div class="chapter-card">
     <h3>Chapter 18</h3>
-    <h4>Learning Regulation</h4>
+    <h4>The Slow Work of Unclenching</h4>
     <p>Tools and techniques for nervous system regulation and self-soothing.</p>
     <a href="/from-the-storm-to-the-fire/chapters/chapter-18-learning-regulation.html" class="cta-button">Read Chapter →</a>
   </div>

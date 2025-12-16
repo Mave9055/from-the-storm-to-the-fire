@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 18 — Learning Regulation"
+title: "Chapter 18 — The Slow Work of Unclenching"
 chapter: 18
 act: "Act IV — Agency"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch18-meditation.jpg

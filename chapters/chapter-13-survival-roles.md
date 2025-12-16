@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Chapter 13 — Survival Roles"
+title: "Chapter 13 — The Costumes We Couldn't Take Off"
 chapter: 13
 act: "Act III — Healing"
 chapter_image: /from-the-storm-to-the-fire/assets/images/ch13-roles.jpg
